@@ -62,6 +62,7 @@ python build.py
 - `freezegun` para controlar el tiempo en los tests
 - Persistencia simple en ficheros JSON
 
+
 ## Documentación adicional
 
 `doc/doc.docx` contiene la memoria/documentación de diseño entregada para esta práctica.
